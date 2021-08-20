@@ -1,0 +1,44 @@
+.feature-container {
+  margin-top: 35px;
+  height: 1416px;
+}
+
+.feature-img {
+  height: 472px;
+  width: 100%;
+  padding: 0;
+}
+
+.feature-lettering {
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  justify-content: center;
+  background-color: #ff1245;
+  padding-top: 100px;
+}
+
+.feature-link {
+  color: white;
+  font-size: 35px;
+  line-height: 30px;
+}
+
+.feature-link:hover {
+  color: white;
+}
+
+.feature-btn {
+  margin-top: 130px;
+  border-style: none;
+  border-radius: 40px;
+  color: white;
+  background-color: black;
+  padding: 10px;
+  font-size: 20px;
+  width: 230px;
+}
+
+.feature-btn:hover {
+  background-color: tomato;
+}

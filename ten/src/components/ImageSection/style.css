@@ -1,0 +1,110 @@
+.home-img-1 {
+  padding-top: 35px;
+  height: 670px;
+  width: 1760px;
+}
+
+.home-img-2-container {
+  margin-top: 35px;
+  background-color: #ff3333;
+  height: 462px;
+  width: 1760px;
+}
+
+.home-img-2-header {
+  font-size: 26px;
+  text-align: center;
+  padding-top: 10px;
+  font-weight: bold;
+}
+
+.home-img-2-leftbox {
+  text-align: center;
+}
+
+.home-img-2-lettering {
+  font-size: 45px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 30px;
+  line-height: 55px;
+  text-shadow: 1px 1px 0px white;
+}
+
+.home-img-2-btn {
+  border-radius: 0%;
+  background-color: white;
+  border: 3px solid black;
+  font-size: 18 px;
+  font-weight: bold;
+  height: 50px;
+  width: 150px;
+  margin-top: -10px;
+}
+.home-img-2-btn:hover {
+  background-color: black;
+  border: 3px solid white;
+  color: white;
+}
+
+.home-img-2-image {
+  height: 350px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.home-img-2-rightbox {
+  padding-top: 10px;
+}
+
+.parallax {
+  margin-top: 35px;
+  margin-left: 1px;
+  margin-right: 1px;
+  /* The image used */
+  background-image: url("C:\ACADEMICS\internship\TheEntrepreneurshipNetwork\ten\src\images\parallax-img.jpg");
+  width: 1760px;
+  /* Set a specific height */
+  min-height: 406px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.parallax-btn {
+  background-image: linear-gradient(to right, #1f0eb8, #7303c0, #ec38bc);
+  border-style: none;
+  border-radius: 40px;
+  width: 250px;
+  height: 50px;
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+}
+.parallax-btn:hover {
+  background-image: linear-gradient(to right, #ff3c3c, #ff3c3c, #ff3c3c);
+}
+
+.parallax-heading-1 {
+  font-family: "Pacifico", cursive;
+  font-size: 45px;
+  font-weight: bolder;
+  color: rgb(255, 81, 81);
+  text-shadow: 1px 1px 0px white;
+}
+
+.parallax-heading-2 {
+  font-size: 80px;
+  color: orange;
+  font-family: "Anton", sans-serif;
+  font-style: italic;
+  text-shadow: 1px 1px 0px white;
+  letter-spacing: 5px;
+}

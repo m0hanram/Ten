@@ -1,0 +1,20 @@
+.socialmedia-img {
+  height: 50px;
+}
+
+.socialmedia {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.copyrights-bar {
+  background-color: #ff5937;
+}
+
+.links {
+  padding-top: 50px;
+  font-size: 25px;
+}

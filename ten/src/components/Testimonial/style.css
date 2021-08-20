@@ -1,0 +1,51 @@
+.testimonial-h {
+  text-align: center;
+  color: red;
+  font-size: 43px;
+  letter-spacing: 1px;
+  margin-top: -10px;
+}
+
+.testimonial-hr {
+  width: 12%;
+  margin-left: 44%;
+  margin-right: 44%;
+  border: none;
+  height: 3px;
+  background: black;
+  margin-top: -35px;
+}
+
+.testimonial-container {
+  margin-top: 5px;
+  width: 1216px;
+  justify-content: center;
+  height: 496px;
+  background: url("C:\ACADEMICS\internship\TheEntrepreneurshipNetwork\ten\src\images\testimonial.jpg")
+    no-repeat center center fixed;
+  background-size: cover;
+}
+
+.testimonial-allcontainer {
+  justify-content: center;
+}
+
+.testimonial-card {
+  padding-top: 10%;
+}
+
+.testimonial-card-h {
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.testimonial-card-p {
+  text-align: center;
+  color: white;
+  font-size: 35px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
